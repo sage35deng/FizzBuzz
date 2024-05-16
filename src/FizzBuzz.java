@@ -40,7 +40,7 @@ class FizzBuzz {
         */
     }
 
-    private static void extracted(int i) {
+    public static void extracted(int i) {
         // testing
 
         // Find out which numbers divide i.
